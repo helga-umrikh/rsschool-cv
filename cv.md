@@ -69,3 +69,16 @@ for(let i = 0; i != words.length; i++){
 return result;
 }
 ```
+---
+## **Experience**
+### Landing page project: [landing_page_project](https://github.com/helga-umrikh/PR1)
+---
+## **Education**
+### Non-core education:
+#### Petrozavodsk State conservatory (2022)
+
+### Web courses:
+#### Currentrly taking frontend development course at Skillfactory school
+---
+## **Languages**
+English - B1(Inermediate)
