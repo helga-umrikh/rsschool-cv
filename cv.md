@@ -6,16 +6,16 @@
 ##### tel: +79500051949
 ##### discord: HelgaUmr#0847
 ---
-## About me:
+## **About me:**
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
-## Skills
+## **Skills**
 HTML CSS GIT
 
 ---
-## Code
+## **Code**
 
 Here is one of my solutions in codewars:
 > Complete the method/function so that it converts dash/underscore delimited words into camel casing.\The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case). The next words should be always capitalized.
@@ -72,10 +72,14 @@ return result;
 ```
 
 ---
-## Experience
-
+## **Experience**
+### Landing page project: [landing_page_project](https://github.com/helga-umrikh/PR1)
 ---
-## Education
+## **Education**
+### Non-core education:
+#### Petrozavodsk State conservatory (2022)
 
+### Web courses:
+#### Currentrly taking frontend development course at Skillfactory school
 ---
-## Languages
+## **Languages**
