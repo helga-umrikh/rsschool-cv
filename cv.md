@@ -83,3 +83,4 @@ return result;
 #### Currentrly taking frontend development course at Skillfactory school
 ---
 ## **Languages**
+English - B1(Inermediate)
