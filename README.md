@@ -30,3 +30,37 @@ function order(words){
   return result;
 }
 ```
+## Experience
+
+#### example
+
+Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,  
+    freelance projects - wherever they had the opportunity to demonstrate skills they have.  
+    Also it would be awesome if you add links to source code)
+    
+## Education 
+### Courses
+
+``Hard Skills``  
+
+**Software development (frontend development)**  
+**Skillfactory**  
+*Issued Jul 2023*
+
+**Sololearn JavaScript Intermediate course certification**  
+**Sololearn**  
+*Issued Mar 2023*
+
+**Sololearn HTML course certification**  
+**Sololearn**  
+*Issued Feb 2023*
+
+``Soft Skills``
+
+**Art of soft Skills: flexible skills for life and study**  
+**Stepik**  
+*Issued Nov 2023*
+
+## English level
+
+**B2** Upper-Intermediate
