@@ -1,1 +1,1 @@
-https://github.com/helga-umrikh/rsschool-cv/cv
+https://helga-umrikh.github.io/rsschool-cv/cv
